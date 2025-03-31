@@ -7,6 +7,7 @@
 ***
 
 * [C语言-现代编程世界的基石](c-yu-yan-xian-dai-bian-cheng-shi-jie-de-ji-shi.md)
+* [编译原理](bian-yi-yuan-li.md)
 
 ## 算法&数据结构
 
